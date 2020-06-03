@@ -16,7 +16,7 @@ There are several options available for your account. They will be described bel
 <img src="https://i.imgur.com/ZBRNGpy.png" width="1000">
 
 ### Create another type of account
-For users who want multiple accounts (i.e checkings and retirement) they can do so by using the "Create another account" feature. They will have to input a type an amount. There is no limit to how much accounts can be owned by a user.
+For users who want multiple accounts (i.e checkings and retirement) they can do so by using the "Create another account" feature. They will have to input a type and an amount to deposit. There is no limit to how much accounts can be owned by a user.
 
 <img src="https://i.imgur.com/OmChOoK.png" width="1000">
 
