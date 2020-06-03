@@ -44,7 +44,7 @@ This is done by simply just inputting the account ID
 
 <img src="https://i.imgur.com/bgXxQFF.png" width="250">
 
-<img src="https://i.imgur.com/8SqIfSD/png" width="250">
+<img src="https://i.imgur.com/8SqIfSD.png" width="250">
 
 ### Transaction History
 This will show a log of all transctions completed.
