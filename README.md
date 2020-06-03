@@ -2,7 +2,7 @@
 GopherBank is a mock banking application built using Apache Tomcat.
 DISCLAIMER: GopherBank is in no way affiliated with the UofM. It is only themed as such for fun.
 
-<img src="https://i.imgur.com/zOtU8PY.jpg" width="500">
+<img src="https://i.imgur.com/zOtU8PY.jpg" width="1000">
 
 ## How to use
 
