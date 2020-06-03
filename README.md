@@ -39,6 +39,11 @@ Transferring is done by selecting the ID of the account to transfer from and tra
 
 <img src="https://i.imgur.com/ZZAEXSu.png" width="1000">
 
+### Transaction History
+This will show a log of all transctions completed.
+
+<img src="https://i.imgur.com/mT8JxkZ.png" width="1000">
+
 ### Delete an account
 This is done by simply just inputting the account ID
 
@@ -46,8 +51,5 @@ This is done by simply just inputting the account ID
 
 <img src="https://i.imgur.com/8SqIfSD.png" width="1000">
 
-### Transaction History
-This will show a log of all transctions completed.
 
-<img src="https://i.imgur.com/mT8JxkZ.png" width="1000">
 
