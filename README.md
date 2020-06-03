@@ -1,2 +1,44 @@
 # GopherBank
-Mock banking application built using Apache Tomcat 
+GopherBank is a mock banking application built using Apache Tomcat.
+<img src="https://imgur.com/zOtU8PY" width="350">
+DISCLAIMER: GopherBank is in no way affiliated with the UofM. It is only themed as such for fun.
+
+## How to use
+
+### Create an account
+<img src="https://imgur.com/GPwbey7" width="250">
+<img src="https://imgur.com/uebbjMk" width="250">
+
+### Sign in
+There are several options available for your account. They will be described below.
+<img src="https://imgur.com/ZBRNGpy" width="250">
+
+### Create another type of account
+For users who want multiple accounts (i.e checkings and retirement) they can do so by using the "Create another account" feature. They will have to input a type and amount.
+
+<img src="https://imgur.com/OmChOoK" width="250">
+
+Afterwards press "submit" and it will create that account
+
+<img src="https://imgur.com/Ib9ezJA" width="250">
+
+### Withdraw
+Users may withdraw from their account by selecting an account ID and inputting an amount to withdraw
+<img src="https://imgur.com/VKMpa7R" width="250">
+
+### Deposit
+Alternatively, users may also deposit. This requires the same input as above.
+<img src="https://imgur.com/II3Ll0o" width="250">
+
+### Transfer between accounts
+Transferring is done by selecting the ID of the account to transfer from and transfee ID with an amount.
+<img src="https://imgur.com/ZZAEXSu" width="250">
+
+### Delete an account
+This is done by simply just inputting the account ID
+<img src="https://imgur.com/bgXxQFF" width="250">
+
+### Transaction History
+This will show a log of all transctions completed.
+<img src="https://imgur.com/mT8JxkZ" width="250">
+
