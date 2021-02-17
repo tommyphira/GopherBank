@@ -44,7 +44,7 @@ This will show a log of all transctions completed.
 <img src="https://i.imgur.com/mT8JxkZ.png" width="1000">
 
 ### Delete an account
-This is done by simply just inputting the account ID
+This is done by entering the account ID of the account you wish to delete.
 
 <img src="https://i.imgur.com/bgXxQFF.png" width="1000">
 
