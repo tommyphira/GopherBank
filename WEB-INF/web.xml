@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                      http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+  version="3.1"
+  metadata-complete="true">
+<display-name>Banking App</display-name>
+<welcome-file-list>
+  <welcome-file>index.html</welcome-file>
+</welcome-file-list>
+<servlet>
+  <servlet-name>bankapp</servlet-name>
+  <servlet-class>bankapp</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>bankapp</servlet-name>
+  <url-pattern>/bankapp</url-pattern>
+</servlet-mapping>
+<servlet>
+  <servlet-name>AddCustomer</servlet-name>
+  <servlet-class>AddCustomer</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>AddCustomer</servlet-name>
+  <url-pattern>/AddCustomer</url-pattern>
+</servlet-mapping>
+<servlet>
+  <servlet-name>withdraw</servlet-name>
+  <servlet-class>withdraw</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>withdraw</servlet-name>
+  <url-pattern>/withdraw</url-pattern>
+</servlet-mapping>
+<servlet>
+  <servlet-name>TransferMoney</servlet-name>
+  <servlet-class>TransferMoney</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>TransferMoney</servlet-name>
+  <url-pattern>/TransferMoney</url-pattern>
+</servlet-mapping>
+<servlet>
+  <servlet-name>AddAnotherAccountScreen</servlet-name>
+  <servlet-class>AddAnotherAccountScreen</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>AddAnotherAccountScreen</servlet-name>
+  <url-pattern>/AddAnotherAccountScreen</url-pattern>
+</servlet-mapping>
+<servlet>
+  <servlet-name>updateBankApp</servlet-name>
+  <servlet-class>updateBankApp</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>updateBankApp</servlet-name>
+  <url-pattern>/updateBankApp</url-pattern>
+</servlet-mapping>
+<servlet>
+  <servlet-name>deposit</servlet-name>
+  <servlet-class>deposit</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>deposit</servlet-name>
+  <url-pattern>/deposit</url-pattern>
+</servlet-mapping>
+<servlet>
+  <servlet-name>deleteAccount</servlet-name>
+  <servlet-class>deleteAccount</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>deleteAccount</servlet-name>
+  <url-pattern>/deleteAccount</url-pattern>
+</servlet-mapping>
+<servlet>
+  <servlet-name>checkHistory</servlet-name>
+  <servlet-class>checkHistory</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>checkHistory</servlet-name>
+  <url-pattern>/checkHistory</url-pattern>
+</servlet-mapping>
+</web-app>
